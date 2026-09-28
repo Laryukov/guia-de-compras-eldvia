@@ -1,0 +1,7 @@
+BASE DO SITE DE GUIAS SHOPEE — ELDVIA
+
+Arquivos para a raiz de um repositório GitHub Pages:
+- index.html: página inicial; o robô insere cada novo artigo na área marcada.
+- sitemap.xml: o robô acrescenta o endereço de cada artigo publicado.
+
+Não coloque aqui o banco de dados, o arquivo .env, tokens ou a pasta do robô.
